@@ -62,7 +62,7 @@ router.get('/users/me', auth, async (req, res) => {
   res.send(req.user);
 });
 
-// update a user by id
+// update a user
 router.patch('/users/me', auth, async (req, res) => {
   // will not allow to update different keys
   const updates = Object.keys(req.body);
