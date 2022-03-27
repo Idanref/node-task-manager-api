@@ -1,7 +1,7 @@
 ### Task Manager API
 Built With Node.JS
 <br>
-Services On The Server: https://idan-task-manager.herokuapp.com/
+Services Available At: https://idan-task-manager.herokuapp.com/
 
 ## Supports:
 ### Users:
