@@ -2,6 +2,7 @@
 Built With Node.JS
 <br>
 Services Available At: https://idan-task-manager.herokuapp.com/
+Check routes for details on how to use the API.
 
 ## Supports:
 ### Users:
